@@ -55,6 +55,7 @@ function fetchArticles(directory, isFirstLayer = true) {
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: 'nl-NL',
+  base: '/diveHearts/',
   title: "Dive Hearts",
   description: "Snorkel en duik vereniging in omgeving Valkenswaard",
   themeConfig: {
