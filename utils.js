@@ -1,6 +1,11 @@
 import fs from 'fs';
 import path from 'path';
 
+export function getStringBeforeNthOccurrence(str, delimiter, n) {
+    const parts = str.split(delimiter);
+    return parts.slice(0, n).join(delimiter);
+}
+
 /**
  * Extracts the title from the given markdown content.
  *

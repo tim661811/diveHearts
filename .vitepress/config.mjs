@@ -1,5 +1,7 @@
 import { defineConfig } from 'vitepress'
-import { fetchArticles } from '../utils'
+import { fetchArticles, getStringBeforeNthOccurrence } from '../utils'
+
+const articles = fetchArticles('posts')
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -13,13 +15,13 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Nieuws berichten', link: articles.at(0).base + articles.at(0).items.at(0).link, activeMatch: getStringBeforeNthOccurrence(articles.at(0).base, '/', 2) }
     ],
 
     sidebar: [
       {
         text: 'Nieuws berichten',
-        items: fetchArticles('posts')
+        items: articles
       }
     ],
 
