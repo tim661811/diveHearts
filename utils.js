@@ -69,8 +69,21 @@ export function fetchArticles(directory) {
 
     let result = fetchFileStructure(directory).map(fileData => restructure(fileData))
 
-    //sort results DESC
+    //sort results
     result = result.sort((a, b) => b.text.localeCompare(a.text));
+    result.map(entry => entry.items.sort((a, b) => {
+        if (a.link != null && b.link != null) {
+            // Extract the date part (YYYYMMDD) from the links
+            let dateA = a.link.substring(1, 9); // Extracts '20240413' from e.g. '/20240413IedereenKanSportenZwemsportdag2024.md'
+            let dateB = b.link.substring(1, 9); // Extracts '20240701' from e.g. '/20240701jaarvergadering2024.md'
+
+            // Compare the date strings directly (descending order)
+            if (dateA > dateB) return -1;
+            if (dateA < dateB) return 1;
+            return 0;
+        }
+    }))
+    console.dir(result, { depth: null })
 
     //collapse all folders apart from the first one
     let shouldCollapse = false
