@@ -15,13 +15,13 @@ hero:
       link: "/diveHearts/Inschrijfformulier_nieuwe_leden.pdf"
 
 features:
-  - title: Openings duik 2024
-    details: De openings duik van 2024 is gehouden in het zilvermeer te belgie
-    link: /posts/2024/20240501openingsduik2024
+  - title: Iedereen kan Sporten Zwemsportdag 2024
+    details: DiveHearts bracht op 13 april tijdens de Iedereen kan sporten Zwemsportdag in Weert opnieuw vele mensen met een beperking in aanraking met de duiksport.
+    link: /posts/2024/20240413IedereenKanSportenZwemsportdag2024
   - title: Blind duiken clinic
     details: Een clinic gegeven door Kim Noordermeer en Rob Kool over het duiken met een visuele beperking
-    link: posts/2023/20231105blindDuikClinic
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: /posts/2023/20231105blindDuikClinic
+  - title: Jaarvergadering 2024 en Gezellige BBQ
+    link: /posts/2024/20240701jaarvergadering2024
 ---
 
