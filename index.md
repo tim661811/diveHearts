@@ -22,6 +22,7 @@ features:
     details: Een clinic gegeven door Kim Noordermeer en Rob Kool over het duiken met een visuele beperking
     link: /posts/2023/20231105blindDuikClinic
   - title: Jaarvergadering 2024 en Gezellige BBQ
+    details: DiveHearts' jaarvergadering van 2024 was een ontspannen en gezellige bijeenkomst waarin we terugkeken op het afgelopen jaar, nieuwe plannen maakten én genoten van een heerlijke BBQ samen met onze leden.
     link: /posts/2024/20240701jaarvergadering2024
 ---
 
