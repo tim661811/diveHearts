@@ -11,6 +11,7 @@ export default defineConfig({
   description: "Snorkel en duik vereniging in omgeving Valkenswaard",
   cleanUrls: true,
   lastUpdated: true,
+  appearance: false,
 
   themeConfig: {
     logo: '/images/logo.jpg',
@@ -28,7 +29,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'facebook', link: 'https://www.facebook.com/thijs.dewit.5' }
+      // { icon: 'facebook', link: 'https://www.facebook.com/thijs.dewit.5' }
     ],
 
     outline: {
