@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: Schrijf je in
-      link: /markdown-examples
+      link: "/diveHearts/Inschrijfformulier_nieuwe_leden.pdf"
 
 features:
   - title: Openings duik 2024

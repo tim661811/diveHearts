@@ -10,6 +10,8 @@ export default defineConfig({
   title: "Dive Hearts",
   description: "Snorkel en duik vereniging in omgeving Valkenswaard",
   cleanUrls: true,
+  lastUpdated: true,
+
   themeConfig: {
     logo: '/images/logo.jpg',
     // https://vitepress.dev/reference/default-theme-config
