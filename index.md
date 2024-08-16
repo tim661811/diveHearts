@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: Schrijf je in
-      link: "/diveHearts/Inschrijfformulier_nieuwe_leden.pdf"
+      link: "/Inschrijfformulier_nieuwe_leden.pdf"
 
 features:
   - title: Iedereen kan Sporten Zwemsportdag 2024
