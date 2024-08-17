@@ -28,7 +28,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      // { icon: 'facebook', link: 'https://www.facebook.com/thijs.dewit.5' }
+      { icon: 'facebook', link: 'https://www.facebook.com/people/Onderwatersport-vereniging-Dive-Hearts/61564223949194/' }
     ],
 
     outline: {
