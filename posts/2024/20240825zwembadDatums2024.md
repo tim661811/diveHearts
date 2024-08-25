@@ -1,5 +1,5 @@
 ---
-title: Aankondiging: Zwembadduiken Winterseizoen 2024-2025
+title: Aankondiging Zwembadduiken Winterseizoen 2024-2025
 lastUpdated: false
 ---
 
