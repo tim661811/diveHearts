@@ -14,8 +14,6 @@ Vandaag hebben we met onze onderwatersportvereniging, Dive Hearts, gedoken in he
 ### Rescue-Oefeningen: Belangrijke Training voor Onze Cursisten
 De ochtend begon met intensieve rescue-oefeningen, speciaal voor de leden die momenteel een opleiding volgen om hun reddingsvaardigheden te verbeteren. Onder begeleiding van een van onze ervaren instructeurs oefenden de cursisten verschillende scenario's die ze in een noodsituatie onder water kunnen tegenkomen. Deze oefeningen omvatten het herkennen van noodsignalen en het benaderen en redden van een duiker in nood.
 
-![Reddings oefeningen in actie](https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-6/455833343_122102636462474131_5820337984959481610_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=upv23mdQdUkQ7kNvgHDo3sc&_nc_ht=scontent-ams2-1.xx&oh=00_AYDH3dZquAQ4UHQyQDv5dK7QvVYbRwhHEY6-siAyF0AopQ&oe=66C6CC9E)
-
 ### Eerste Buitenwaterduik: Een Bijzondere Ervaring voor Twee Deelnemers
 Na de rescue oefeningen was het tijd voor een spannende mijlpaal: de eerste buitenwaterduik van twee van onze deelnemers. De spanning en opwinding waren duidelijk voelbaar toen ze zich klaarmaakten voor hun duik in het heldere water van het Zilvermeer.
 

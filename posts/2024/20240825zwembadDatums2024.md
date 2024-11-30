@@ -44,8 +44,6 @@ Hierbij de data voor onze zondagavondsessies:
 - Zondag 6 april
 - Zondag 13 april
 
-[Voeg de datums toe aan je digitale agenda](/zwembadDatums2024.ics)
-
 De duikavonden vinden plaats van 19:00 tot 20:30 uur in **Zwembad de Wedert, Pastoor Heerkensdreef 29, 5552 BG Valkenswaard, Nederland**. Tijdens deze sessies kun je onder begeleiding van onze ervaren instructeurs je duikvaardigheden bijhouden en perfectioneren. Of je nu een beginner bent of een doorgewinterde duiker, deze avonden bieden voor iedereen iets waardevols. Tevens is het ook mogelijk om baantjes te trekken.
 
 We kijken ernaar uit om je te zien op onze duikavonden!
